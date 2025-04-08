@@ -4,5 +4,6 @@
     {
         DataMahasiswa103022300145.ReadJSON();
         Console.WriteLine();
+        TeamMembers103022300145.ReadJSON();
     }
 }
