@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|c:\\users\\naufal\\documents\\kpl\\modul7_kelompok3\\modul7_kelompok3\\jurnal7_2_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|solutionrelative:modul7_kelompok3\\jurnal7_2_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|c:\\users\\naufal\\documents\\kpl\\modul7_kelompok3\\modul7_kelompok3\\datamahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|solutionrelative:modul7_kelompok3\\datamahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|c:\\users\\naufal\\documents\\kpl\\modul7_kelompok3\\modul7_kelompok3\\jurnal7_1_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|solutionrelative:modul7_kelompok3\\jurnal7_1_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|c:\\users\\naufal\\documents\\kpl\\modul7_kelompok3\\modul7_kelompok3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|solutionrelative:modul7_kelompok3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|c:\\users\\naufal\\documents\\kpl\\modul7_kelompok3\\modul7_kelompok3\\teammembers103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85309755-D9DB-4DD6-8C30-BA9E6EBFDD76}|Modul7_Kelompok3\\Modul7_Kelompok3.csproj|solutionrelative:modul7_kelompok3\\teammembers103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataMahasiswa103022300006.cs",
-              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
-              "RelativeDocumentMoniker": "Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
-              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
-              "RelativeToolTip": "Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TeamMembers103022300006.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\TeamMembers103022300006.cs",
+              "RelativeDocumentMoniker": "Modul7_Kelompok3\\TeamMembers103022300006.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\TeamMembers103022300006.cs",
+              "RelativeToolTip": "Modul7_Kelompok3\\TeamMembers103022300006.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:55:00.042Z",
+              "WhenOpened": "2025-04-08T00:55:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jurnal7_2_103022300006.json",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\jurnal7_2_103022300006.json",
+              "RelativeDocumentMoniker": "Modul7_Kelompok3\\jurnal7_2_103022300006.json",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\jurnal7_2_103022300006.json",
+              "RelativeToolTip": "Modul7_Kelompok3\\jurnal7_2_103022300006.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T00:55:02.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "jurnal7_1_103022300006.json",
-              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\jurnal7_1_103022300006.json",
-              "RelativeDocumentMoniker": "Modul7_Kelompok3\\jurnal7_1_103022300006.json",
-              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\jurnal7_1_103022300006.json",
-              "RelativeToolTip": "Modul7_Kelompok3\\jurnal7_1_103022300006.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T23:52:57.555Z",
+              "Title": "DataMahasiswa103022300006.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
+              "RelativeDocumentMoniker": "Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
+              "RelativeToolTip": "Modul7_Kelompok3\\DataMahasiswa103022300006.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:55:00.042Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "Modul7_Kelompok3\\Program.cs",
               "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Modul7_Kelompok3\\Modul7_Kelompok3\\Program.cs",
               "RelativeToolTip": "Modul7_Kelompok3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T23:43:11.581Z",
               "EditorCaption": ""
