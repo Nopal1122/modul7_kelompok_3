@@ -32,7 +32,7 @@ class DataMahasiswa103022300145
 
     public static void ReadJSON()
     {
-        string path = "jurnal7_1_103022300145.json";
+        string path = "../../../jurnal7_1_103022300145.json";
         string jsonString = File.ReadAllText(path);
         Mahasiswa mhs = JsonSerializer.Deserialize<Mahasiswa>(jsonString);
         Console.WriteLine($"Name : {mhs.firstName} {mhs.lastName} \nGender : {mhs.gender} \nAge : {mhs.age} \nAddress : \nstreetAddress : {mhs.address.streetAddress} \ncity : {mhs.address.city} \nstate : {mhs.address.state}");
