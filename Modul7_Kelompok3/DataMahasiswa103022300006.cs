@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Text.Json
+﻿using System.IO;
+using System.Text.Json;
 
 namespace Modul7_Kelompok3
 {
@@ -11,44 +7,43 @@ namespace Modul7_Kelompok3
     {
         public class Nama
         {
+            public Address address { get; set; }
             public string depan { get; set; }
             public string belakang { get; set; }
             public string gender { get; set; }
             public long age { get; set; }
 
-
-
+            public List<mataKkuliah> mata_kuliah { get; set; }
         }
+
         public class Address
         {
-            public Nama nama { get; set; }
             public string streetAddress { get; set; }
             public string city { get; set; }
             public string state { get; set; }
-
-
-
         }
+
         public class mataKkuliah
         {
             public string code { get; set; }
-            public string namaMatkul { get; set; }
-
+            public string name { get; set; }
         }
-        public class Kuliah
-        {
 
-            public List<mataKkuliah> mata_kuliah { get; set; }
-        }
-        public class static void ReadJSON()
+        public static void ReadJSON()
         {
             string path = "jurnal7_1_103022300006.json";
             string JsonSring = File.ReadAllText(path);
-            Address address = JsonSerializer.Deserialize<Address>(JsonSring);
-            Console.WriteLine($"nama {address.nama.depan} {address.nama.belakang} gender {address.nama.gender} age: {address.nama.age}");
 
+            Nama nama = JsonSerializer.Deserialize<Nama>(JsonSring);
 
+            Console.WriteLine($"Nama: {nama.depan} {nama.belakang} | Gender: {nama.gender} | Age: {nama.age}");
+            Console.WriteLine($"Address: {nama.address.streetAddress}, {nama.address.city}, {nama.address.state}");
+            Console.WriteLine("\nDaftar Mata Kuliah:");
+
+            foreach (var matkul in nama.mata_kuliah)
+            {
+                Console.WriteLine($"kode matkul {matkul.code}nama matkul: {matkul.name}");
+            }
         }
-
     }
 }
