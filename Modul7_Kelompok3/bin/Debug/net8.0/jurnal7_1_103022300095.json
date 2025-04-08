@@ -1,0 +1,21 @@
+{
+  "firstName": "Wildan Nabil",
+  "lastName": "Ramdhany",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Lengkong",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "mata_kuliah": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2XX",
+      "name": "Nama Mata Kuliah"
+    }
+  ]
+}

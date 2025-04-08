@@ -1,13 +1,9 @@
 ﻿using Modul7_Kelompok3;
 
-class program
+class Program
 {
-
     static void Main(string[] args)
     {
-
-        DataMahasiswa103022300006.ReadJSON();
-        Console.WriteLine();
-
+        DataMahasiswa103022300095.ReadJSON();
     }
 }
