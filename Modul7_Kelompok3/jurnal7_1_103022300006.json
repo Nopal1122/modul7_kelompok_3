@@ -1,0 +1,15 @@
+{
+   "firstName": "AHmad",
+   "lastName": "Naufal",
+   "gender": "male",
+   "age": 23,
+   "address": {
+       "streetAddress": "Lengkong",
+       55"city": "Bandung",
+       "state": "West Java"
+   },
+   "mata_kuliah": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
