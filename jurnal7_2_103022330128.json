@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Abizar",
+       "lastName": "Abrar",
+       "gender": "male",
+       "age": 20,
+       "nim": "7349282382"
+    },
+    {
+       "firstName": "Naufal",
+       "lastName": "Alghifari",
+       "gender": "male",
+       "age": 22,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "Elvina",
+       "lastName": "Huang",
+       "gender": "female",
+       "age": 20,
+       "nim": "456754675"
+    }
+  ]
+}

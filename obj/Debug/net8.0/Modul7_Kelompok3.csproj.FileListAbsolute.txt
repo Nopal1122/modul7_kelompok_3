@@ -1,0 +1,5 @@
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\modul7_kelompok_3\obj\Debug\net8.0\Modul7_Kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\modul7_kelompok_3\obj\Debug\net8.0\Modul7_Kelompok3.AssemblyInfoInputs.cache
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\modul7_kelompok_3\obj\Debug\net8.0\Modul7_Kelompok3.AssemblyInfo.cs
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\modul7_kelompok_3\obj\Debug\net8.0\Modul7_Kelompok3.csproj.CoreCompileInputs.cache
+C:\Users\abiza\OneDrive\Documents\PROGRAMMING\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\modul7_kelompok_3\obj\Debug\net8.0\Modul7_Kelompok3.sourcelink.json

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_2_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jurnal7_2_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\TeamMembers_103022330128.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeamMembers_103022330128.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_1_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jurnal7_1_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\DataMahasiswa_103022330128.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataMahasiswa_103022330128.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_2_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jurnal7_2_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_1_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jurnal7_1_103022330128.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "TeamMembers_103022330128.cs",
               "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\TeamMembers_103022330128.cs",
               "RelativeToolTip": "TeamMembers_103022330128.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T00:45:22.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "jurnal7_2_103022330128.json",
               "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_2_103022330128.json",
               "RelativeDocumentMoniker": "jurnal7_2_103022330128.json",
@@ -67,25 +67,38 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:39:50.773Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DataMahasiswa_103022330128.cs",
               "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\DataMahasiswa_103022330128.cs",
               "RelativeDocumentMoniker": "DataMahasiswa_103022330128.cs",
               "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\DataMahasiswa_103022330128.cs",
               "RelativeToolTip": "DataMahasiswa_103022330128.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T00:01:51.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "jurnal7_1_103022330128.json",
               "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\jurnal7_1_103022330128.json",
               "RelativeDocumentMoniker": "jurnal7_1_103022330128.json",
@@ -107,19 +120,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T23:59:38.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\abiza\\OneDrive\\Documents\\PROGRAMMING\\SEMESTER 4\\Praktikum Konstruksi Perangkat Lunak\\modul7_kelompok_3\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:39:50.773Z",
               "EditorCaption": ""
             }
           ]

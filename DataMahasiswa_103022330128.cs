@@ -1,53 +1,56 @@
 using System;
-using System.IO;
-using System.Text.Json;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Text.Json
 
-public class Address
+namespace Modul7_Kelompok3
 {
-	public string streetAddress { get; set; }
-	public string city { get; set; }
-	public string state { get; set; }
+    class DataMahasiswa_103022330128
+    {
+        public class Nama
+        {
+            public string firstName { get; set; }
+            public string lastName { get; set; }
+            public string gender { get; set; }
+            public long age { get; set; }
 
-}
 
-public class Courses
-{
-	public string code { get; set; }
-	public string name { get; set; }
-}
 
-public class DataMahasiswa
-{
-	public string firstname { get; set; }
-	public string lastname { get; set; }
-	public string gender { get; set; }
-	public int age { get; set; }
-	public Address address { get; set; }
-	public List<Course> courses { get; set; }
-	
-	public static void ReadJSON()
-	{
-		string filePath = "jurnal7_1_103022330128.json";
-		try
-		{
-			string jsonString = File.ReadAllText(filePath);
-			DataMahasiswa mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(jsonString);
-			Console.WriteLine("=== Data Mahasiswa ===");
-			Console.WriteLine($"Nama:{mahasiswa.firstname}{mahasiswa.lastname} ");
-			Console.WriteLine($"Gender: {mahasiswa.gender}");
-			Console.WriteLine($"Umur: {mahasiswa.age}");
-			Console.WriteLine($"Alamat: {mahasiswa.address.streetAddress} {mahasiswa.address.city}{mahasiswa.address.state}");
+        }
+        public class Address
+        {
+            public Nama nama { get; set; }
+            public string streetAddress { get; set; }
+            public string city { get; set; }
+            public string state { get; set; }
 
-			Console.WriteLine("\nMata Kuliah: ");
-			foreach (var course in mahasiswa.courses)
-			{
-				Console.WriteLine($" -  {course.code}: {course.name} ");
-			}
-		}
-		catch (Exception ex)
-		{
-			Console.WriteLine($"Error: {ex.Message}");
-		}
-	}
 
+
+        }
+        public class Courses
+        {
+            public string code { get; set; }
+            public string namaMatkul { get; set; }
+
+        }
+        public class Kuliah
+        {
+
+            public List<mataKkuliah> mata_kuliah { get; set; }
+        }
+        public class static void ReadJSON()
+        {
+            string path = "jurnal7_1_103022330128.json";
+            string JsonSring = File.ReadAllText(path);
+            Address address = JsonSerializer.Deserialize<Address>(JsonSring);
+            Console.WriteLine($"nama {address.nama.firstName} {address.nama.lastName} gender {address.nama.gender} age: {address.nama.age}");
+
+
+        }
+
+    }
+
+    
 }
