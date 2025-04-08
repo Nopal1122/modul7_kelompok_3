@@ -1,0 +1,15 @@
+{
+   "firstName": "Abizar Tsaqif",
+   "lastName": "Abrar",
+   "gender": "Male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Ciganitri",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C5", "name": "Kecerdasan Buatan" }
+   ]
+}
